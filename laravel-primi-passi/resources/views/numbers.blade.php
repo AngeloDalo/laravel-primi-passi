@@ -17,5 +17,6 @@
         @endforeach
     </ul>
     @endif
+    <a href="/">HOME</a>
 </body>
 </html>
